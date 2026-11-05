@@ -1,0 +1,25 @@
+{
+  "repository": "module-currency-context-flutter",
+  "capabilityKey": "liberusoftware/currency-context",
+  "presentation": "mobile-flutter",
+  "package": "module_currency_context_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/currency-context.md",
+  "presentationPlan": "projects/boilerplate/flutter/currency-context.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
